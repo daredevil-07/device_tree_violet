@@ -544,4 +544,7 @@
 
     <!-- Whether the always on display mode is available. -->
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+
+    <!-- Should "4G" be shown instead of "LTE" when the network is NETWORK_TYPE_LTE? -->	
+    <bool name="config_show4GForLTE">true</bool>
 </resources>
