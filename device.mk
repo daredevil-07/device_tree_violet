@@ -21,6 +21,10 @@ TARGET_SCREEN_WIDTH := 1080
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
+# PixelWallpapers
+PRODUCT_PACKAGES += \
+    PixelLiveWallpaperPrebuilt
+
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
 # Device uses high-density artwork where available
