@@ -16,8 +16,8 @@
     "remote": "lineage"
   },
   {
-    "repository": "packages_apps_PixelLiveWallpaper",
-    "target_path": "packages/apps/PixelLiveWallpaper",
+    "repository": "packages_apps_WallpapersBReel2019",
+    "target_path": "packages/apps/WallpapersBReel2019",
     "branch": "ten",
     "remote": "pixel-gitlab"
   }
