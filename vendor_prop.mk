@@ -132,3 +132,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
     debug.sf.early_app_phase_offset_ns=500000 \
     debug.sf.early_gl_phase_offset_ns=3000000 \
     debug.sf.early_gl_app_phase_offset_ns=15000000
+
+# DPM
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.dpm.feature=1	    
+    persist.hwc.enable_vds=1 \
+    debug.sdm.support_writeback=0
+
+
