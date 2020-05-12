@@ -28,7 +28,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     PixelLiveWallpaperPrebuilt
 
-PRODUCT_ENFORCE_RRO_TARGETS := *
+
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
@@ -448,5 +448,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libnl
 
-PRODUCT_BOOT_JARS += \
-    WfdCommon
+#PRODUCT_BOOT_JARS += \
+  #  WfdCommon

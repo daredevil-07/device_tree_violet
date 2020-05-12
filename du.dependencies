@@ -1,0 +1,70 @@
+[
+  {
+    "repository": "kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "ten"
+  },
+  {
+    "repository": "vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "ten"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-17.0",
+    "remote": "lineage"
+  },
+  {
+    "repository": "packages_apps_WallpapersBReel2019",
+    "target_path": "packages/apps/WallpapersBReel2019",
+    "branch": "ten",
+    "remote": "pixel-gitlab"
+  },
+
+ {   "repository": "DirtyUnicorns/android_vendor_qcom_opensource_audio",
+    "target_path": "vendor/qcom/opensource/audio",
+    "branch" : "q10x"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_vendor_qcom_opensource_cryptfs_hw",
+   "target_path": "vendor/qcom/opensource/cryptfs_hw",
+   "branch"     : "q10x"
+ },
+ {
+    "repository": "DirtyUnicorns/android_vendor_qcom_opensource_data-ipa-cfg-mgr",
+    "target_path": "vendor/qcom/opensource/data-ipa-cfg-mgr",
+    "branch" : "q10x"
+ },
+ {
+    "repository": "DirtyUnicorns/android_vendor_qcom_opensource_dataservices",
+    "target_path": "vendor/qcom/opensource/dataservices",
+    "branch" : "q10x"
+ },
+ {
+    "repository": "DirtyUnicorns/android_vendor_qcom_opensource_interfaces",
+    "target_path": "vendor/qcom/opensource/interfaces",
+    "branch" : "q10x"
+ },
+ {
+    "repository": "DirtyUnicorns/android_vendor_qcom_opensource_power",
+    "target_path": "vendor/qcom/opensource/power",
+    "branch" : "q10x"
+ },
+ {
+    "repository": "DirtyUnicorns/android_vendor_codeaurora_telephony",
+    "target_path": "vendor/codeaurora/telephony",
+    "branch" : "q10x"
+ },
+ {
+    "repository": "DirtyUnicorns/android_system_qcom",
+    "target_path": "system/qcom",
+    "branch" : "q10x"
+ },
+ {
+   "repository":  "gitlab.com/DirtyUnicorns/android_vendor_pixelgapps",
+   "target_path": "vendor/pixelgapps",
+   "branch":      "q10x"
+ }
+]
+]
